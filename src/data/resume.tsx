@@ -87,7 +87,7 @@ export const DATA = {
       start: "May 2023",
       end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "As a Software Developer at DevXplore, I specialize in developing and maintaining full-stack web applications. My primary tech stack includes React.js, Node.js, Django, TypeScript, and MongoDB, with experience in building RESTful APIs and implementing responsive UI using TailwindCSS. I focus on delivering scalable, efficient, and user-centric solutions, leveraging my expertise in both front-end and back-end technologies. Additionally, I am well-versed in JavaScript frameworks and enjoy collaborating on dynamic, innovative projects that require cross-functional teamwork.",
     },
 
   ],
