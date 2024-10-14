@@ -19,6 +19,7 @@ export const metadata: Metadata = {
     template: `%s | ${DATA.name}`,
   },
   description: DATA.description,
+  keywords: ["ahtesham.tech", "Zaman.tech", "Software Engineer", "Developer", "software developer"],
   openGraph: {
     title: `${DATA.name}`,
     description: DATA.description,
