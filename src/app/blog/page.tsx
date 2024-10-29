@@ -33,7 +33,7 @@ export default async function BlogPage() {
               href={`/blog/${post.slug}`}
             >
               <div className="w-full flex flex-col border-2 p-6 rounded-xl border-gray-200">
-                <p className="tracking-tight">{post.metadata.title}</p>
+                <p className="tracking-tight ">{post.metadata.title}</p>
                 <p className="h-6 text-xs text-muted-foreground">
                   {post.metadata.publishedAt}
                 </p>

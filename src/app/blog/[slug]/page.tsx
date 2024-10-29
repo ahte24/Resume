@@ -65,7 +65,7 @@ export default async function Blog({
   }
 
   return (
-    <section id="blog" className="flex justify-center flex-col items-center">
+    <section id="blog" className="flex justify-center flex-col w-full items-center">
       <script
         type="application/ld+json"
         suppressHydrationWarning
@@ -88,7 +88,7 @@ export default async function Blog({
           }),
         }}
       />
-      <h1 className="title font-bold text-2xl tracking-tighter ">
+      <h1 className="title font-bold text-4xl tracking-tighter text-center">
         {post.metadata.title}
       </h1>
       <div className="flex justify-between items-center mt-2 mb-8 text-sm ">
