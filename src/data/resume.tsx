@@ -78,6 +78,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Nineleaps",
+      href: "https://www.Nineleaps.com",
+      // badges: [""],
+      location: "Bangalore",
+      title: "Tranee Data Analyst",
+      logoUrl: "https://avatars.githubusercontent.com/u/4963193?s=200&v=4",
+      start: "Nov 2024",
+      end: "Present",
+      description:
+        "I joined Nineleaps as a Trainee Data Analyst, where I am enhancing my analytical skills and contributing to data-driven decision-making processes. My role involves data collection, cleaning, visualization, and generating insights to support business strategies.",
+    },
+    {
       company: "DevXplore",
       href: "https://www.devxplore.tech",
       badges: ["Freelancing"],
@@ -85,7 +97,7 @@ export const DATA = {
       title: "Software Engineer",
       logoUrl: "/logo.png",
       start: "May 2023",
-      end: "Present",
+      end: "Oct 2024",
       description:
         "As a Software Developer at DevXplore, I specialize in developing and maintaining full-stack web applications. My primary tech stack includes React.js, Node.js, Django, TypeScript, and MongoDB, with experience in building RESTful APIs and implementing responsive UI using TailwindCSS. I focus on delivering scalable, efficient, and user-centric solutions, leveraging my expertise in both front-end and back-end technologies. Additionally, I am well-versed in JavaScript frameworks and enjoy collaborating on dynamic, innovative projects that require cross-functional teamwork.",
     },
