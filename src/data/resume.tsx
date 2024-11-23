@@ -80,7 +80,7 @@ export const DATA = {
     {
       company: "Nineleaps",
       href: "https://www.Nineleaps.com",
-      // badges: [""],
+      badges: ["On site"],
       location: "Bangalore",
       title: "Tranee Data Analyst",
       logoUrl: "https://avatars.githubusercontent.com/u/4963193?s=200&v=4",
